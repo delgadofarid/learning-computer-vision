@@ -3,6 +3,7 @@
 notebook/data/*
 !notebook/data/random-test-data/
 app/uploads/*
+app/model/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
