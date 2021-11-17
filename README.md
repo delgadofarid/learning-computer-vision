@@ -3,7 +3,6 @@ Demo on how to build a Dog/Cat recognizer from zero.
 
 ## Requirements
 
-- Docker - see: https://docs.docker.com/get-docker/
 - Python >= 3.8
 
 ## How to install?
